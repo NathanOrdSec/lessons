@@ -8,6 +8,8 @@ Description: Getting onto a network is the first hurdle, but where do you go onc
 ## Video
 https://youtu.be/mD00y8X3aJQ
 
+This video went a bit longer than expected, and I apologize. You can definitely skip/skim parts as I ramble a bit.
+
 ## Why You Should Care
 
 We’ve talked about C2s and how they may work, but those are only as good as their creator and how much better a Blue Team is in the network. You need other options that retain your access without the risk of burning your Red Team infrastructure. As such, leveraging Kerberos and certificates is a solid way of keeping a foot in the door of a Windows network before pulling back to the edge to maintain access into a network generally. This is a bit harder to catch for a Blue Team and is significantly more resilient than other options in a Windows network.
