@@ -29,16 +29,22 @@ We’ve talked about C2s and how they may work, but those are only as good as th
 
 
 ## Resources:
-•	https://web.mit.edu/Saltzer/www/publications/Kerberosorigin.pdf
-•	https://learn.microsoft.com/en-us/windows-server/security/kerberos/kerberos-authentication-overview
-•	https://www.geeksforgeeks.org/computer-networks/difference-between-kerberos-and-ntlm/
-•	https://web.mit.edu/Kerberos/#what_is
-•	https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/
-•	https://github.com/ParrotSec/mimikatz
-•	https://github.com/GhostPack/Rubeus
-•	https://specterops.io/blog/2021/06/17/shadow-credentials-abusing-key-trust-account-mapping-for-account-takeover/
-•	https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/shadow-credentials
-•	https://github.com/ShutdownRepo/pywhisker
-•	https://github.com/eladshamir/Whisker
-•	
+### Understanding Kerberos
+* https://web.mit.edu/Saltzer/www/publications/Kerberosorigin.pdf
+* https://learn.microsoft.com/en-us/windows-server/security/kerberos/kerberos-authentication-overview
+* https://www.geeksforgeeks.org/computer-networks/difference-between-kerberos-and-ntlm/
+* https://web.mit.edu/Kerberos/#what_is
+* https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/
+
+### Kerberos/Authentication Abuse
+
+* https://github.com/ParrotSec/mimikatz
+* https://github.com/GhostPack/Rubeus
+
+### Certificate Abuse
+
+* https://specterops.io/blog/2021/06/17/shadow-credentials-abusing-key-trust-account-mapping-for-account-takeover/
+* https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/shadow-credentials
+* https://github.com/ShutdownRepo/pywhisker
+* https://github.com/eladshamir/Whisker
 
