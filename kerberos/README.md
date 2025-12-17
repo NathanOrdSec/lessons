@@ -5,7 +5,7 @@ Author: Nathan Ord
 Date: 12/16/2025
 Description: Getting onto a network is the first hurdle, but where do you go once you have taken the first step? Traditional persistence is boring, so let’s be a little sneaker with Kerberos and certificates in a Windows network! You can create and store certs like a password to use forever without having to worry about passwords changing.
 
-##Video
+## Video
 https://youtu.be/mD00y8X3aJQ
 
 ## Why You Should Care
